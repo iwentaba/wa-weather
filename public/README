@@ -1,0 +1,5 @@
+Webapp visualize precipitation in a certain location in WA
+
+rain_data retrieves data from UWA precipitaion model
+
+flask for webapp
